@@ -1,0 +1,7 @@
+{
+  "movies": [
+    { "id": 1, "title": "Fast and Furious 6", "price": 100 },
+    { "id": 2, "title": "Avengers: Endgame", "price": 120 },
+    { "id": 3, "title": "Interstellar", "price": 150 }
+  ]
+}
